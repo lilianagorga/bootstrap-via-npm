@@ -44,16 +44,7 @@
 @import "../node_modules/bootstrap/scss/utilities/api";
 @import "../node_modules/bootstrap/scss/bootstrap-grid";
 
-
-body{
-  background-color: blue;
-}
-
-//.my-class{
-//  display: flex;
-//}
-//
-//:fullscreen{
-//  display: block;
-//}
+@import "general";
+@import "card-deck";
+@import "footer";
 
